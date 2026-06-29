@@ -2,21 +2,40 @@
 
 Hello, I'm ikechukwu George.
 
-This repository documents my cybersecurity learning journey and hands-on lab practice.
+Welcome to my cybersecurity portfolio. This repository documents my hands-on learning through practical labs completed in authorized training environments. My goal is to build real-world cybersecurity skills by understanding how vulnerabilities work and how they can be mitigated.
 
-# Current Focus
-- Python
-- Cybersecurity Fundamentals
-- Web Application Security
-- Kali Linux
-- Burp Suite
+## Current Focus
 
-# Labs and Projects
-This repository will contain:
-- lab reports
-- Security notes
-- Learning exercises
-- Python projects
+* Python for Cybersecurity
+* Web Application Security
+* Kali Linux
+* Burp Suite
+* SQL Injection
+* sqlmap
+* John the Ripper
+* Command Injection
+* Reverse Shells
 
-# Disclaimer
-All activities documented here are performed in authorized lab environments for educational and training purposes only.
+## Labs and Projects
+
+This repository currently includes documentation and screenshots from:
+
+* Manual SQL Injection testing
+* SQL Injection automation using sqlmap
+* Password hash cracking with John the Ripper
+* Command Injection
+* Reverse shell demonstrations
+* Other web application security exercises
+
+I will continue expanding this repository with additional labs, including OWASP Juice Shop, network security, Linux, Python scripting, digital forensics, and incident response projects as I continue developing my cybersecurity skills.
+
+## What I Learned
+
+These hands-on labs helped me understand how common web application vulnerabilities can affect systems when security controls are not properly implemented. I gained experience identifying vulnerabilities, testing them in controlled environments, and learning the defensive techniques used to secure applications.
+
+Working through these exercises also strengthened my confidence using Kali Linux, security tools, and documenting technical findings in a structured way.
+
+## Disclaimer
+
+All activities documented in this repository were performed in authorized lab environments for educational and defensive cybersecurity purposes only. No unauthorized systems or third-party targets were tested.
+
