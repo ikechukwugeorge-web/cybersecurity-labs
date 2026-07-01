@@ -12,7 +12,3 @@ The screenshots demonstrate successful command execution in a controlled DVWA en
 
 This lab helped me understand how dangerous it can be when user input is passed directly to the operating system without proper validation. I learned how attackers can abuse this type of vulnerability and why developers should carefully validate input and avoid executing system commands whenever possible. I also learned the importance of running applications with limited privileges to reduce the impact of an attack.
 
-## Disclaimer
-
-All testing was performed in my own local DVWA environment for educational and defensive cybersecurity training only.
-
