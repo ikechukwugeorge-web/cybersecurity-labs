@@ -1,1 +1,18 @@
+# Command Injection
+
+## Overview
+
+This folder contains screenshots from my Command Injection lab in DVWA. The purpose of this exercise was to understand how an application can become vulnerable when it executes operating system commands using unsanitized user input.
+
+## What the Screenshots Show
+
+The screenshots demonstrate successful command execution in a controlled DVWA environment. They show how the application responded after valid input was provided and how the vulnerability could be used to execute system commands.
+
+## What I Learned
+
+This lab helped me understand how dangerous it can be when user input is passed directly to the operating system without proper validation. I learned how attackers can abuse this type of vulnerability and why developers should carefully validate input and avoid executing system commands whenever possible. I also learned the importance of running applications with limited privileges to reduce the impact of an attack.
+
+## Disclaimer
+
+All testing was performed in my own local DVWA environment for educational and defensive cybersecurity training only.
 
