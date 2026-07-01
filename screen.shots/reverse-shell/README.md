@@ -12,6 +12,4 @@ The screenshots show the process of establishing a reverse shell connection and 
 
 This exercise helped me understand how reverse shells are used during penetration testing after a successful exploitation. I also learned how an interactive shell improves the ability to navigate a compromised system during an authorized security assessment. Most importantly, I gained a better understanding of why organizations should validate user input, restrict command execution, monitor suspicious network connections, and apply the principle of least privilege to reduce security risks.
 
-## Disclaimer
 
-This exercise was completed in my own authorized DVWA lab environment for educational and defensive cybersecurity training only.
