@@ -29,11 +29,6 @@ This repository currently includes documentation and screenshots from:
 
 I will continue expanding this repository with additional labs, including OWASP Juice Shop, network security, Linux, Python scripting, digital forensics, and incident response projects as I continue developing my cybersecurity skills.
 
-## What I Learned
-
-These hands-on labs helped me understand how common web application vulnerabilities can affect systems when security controls are not properly implemented. I gained experience identifying vulnerabilities, testing them in controlled environments, and learning the defensive techniques used to secure applications.
-
-Working through these exercises also strengthened my confidence using Kali Linux, security tools, and documenting technical findings in a structured way.
 
 ## Disclaimer
 
